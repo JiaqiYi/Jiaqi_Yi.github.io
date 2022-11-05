@@ -1,28 +1,9 @@
 # Jiaqi_Yi.github.io
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
+ <body>
 <title>易家祺的网页（建设ing）</title>
-</head>
-<body>
- 
-<h1>csdn:<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>菜鸟教程(runoob.com)</title>
-</head>
-<body>
- 
-<h1>我的第一个标题</h1>
- 
-<p>我的第一个段落。</p>
- 
-</body>
-</html></h1>
- 
-<p>我的第一个段落。</p>
- 
+  <p>csdn:https://blog.csdn.net/Jiaqi_Yi?spm=1000.2115.3001.5343</p>
+  <p>qq:2648959259</p>
 </body>
 </html>
